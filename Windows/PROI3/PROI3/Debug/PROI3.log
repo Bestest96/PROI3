@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\studia\pw\visual studio\proi3\proi3\proi3\main.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Symulacja.cpp
+  Generating Code...
+  PROI3.vcxproj -> F:\studia\PW\Visual Studio\PROI3\PROI3\Debug\PROI3.exe
